@@ -11,8 +11,8 @@ clap = "2.32"
 num_cpus = "1.10"
 
 [dependencies.nimiq-mnemonic]
-git = "https://github.com/nimiq/core-rs"
+git = "https://github.com/nimiq/core-rs-albatross"
 features = ["key-derivation"]
 
 [dependencies.nimiq-key-derivation]
-git = "https://github.com/nimiq/core-rs"
+git = "https://github.com/nimiq/core-rs-albatross"
